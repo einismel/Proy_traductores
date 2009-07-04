@@ -7,8 +7,8 @@ class Token
   attr_reader :line, :col, :kind, :value
 
   # Descripción: Constructor de la clase Token
-  #  @param line - Línea Actual del input
-  #  @param col - Columna Actual del input
+  #  @param line - Línea Actual de la entrada
+  #  @param col - Columna Actual de la entrada
   def initialize(line, col)
     @line   = line
     @col    = col
