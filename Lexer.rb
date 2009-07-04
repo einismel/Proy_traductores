@@ -4,7 +4,7 @@
 #* Einis Rodriguez
 #* Elias Matheus (mailto:e3matheus@gmail.com)
 #= Contenido: 
-#  Analizador Lexicografico del lenguaje yisiel.
+#  Analizador Lexicografico del lenguaje yisiel
 
 require "Token"
 require "excepciones"

@@ -4,7 +4,6 @@
 #* Einis Rodriguez
 #* Elias Matheus (mailto:e3matheus@gmail.com) 
 #= Usage
-# 
 #  Usage:  ruby yisiel.rb  [archivo]
  
 require 'rdoc/usage'

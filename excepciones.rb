@@ -4,7 +4,7 @@
 #* Einis Rodriguez
 #* Elias Matheus (mailto:e3matheus@gmail.com)
 
-# Descripción: Excepción que maneja los comentarios anidados.
+# Descripción: Excepción que maneja los comentarios anidados
 class ComentarioAnidado < RuntimeError
 end
 

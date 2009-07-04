@@ -47,7 +47,7 @@ instsp: insts                      { puts "instsp -> insts\n" }
 invocar: TkId TkAP w TkCP          { puts "invocar -> TkId(" + val[0] + ") ( w ) \n"}
 ;
 
-w : w TkComa exp                    { puts " w -> w , exp \n" }  
+w : w TkComa exp                    { puts " w -> w , exp\n" }  
   | exp                             { puts "w -> exp"}
 ;
 

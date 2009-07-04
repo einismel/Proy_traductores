@@ -1,5 +1,5 @@
 class TestNumNode
-     def initialize(num, sign)
+     def initialize(num,sign)
                 @num = num
                 @sign = sign
      end
