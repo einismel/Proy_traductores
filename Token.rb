@@ -16,7 +16,7 @@ class Token
     @value  = ""
   end
 
-  # Descripción: Método que sobreescribe to_s. Imprime en el formato desea los valores del objeto.
+  # Descripción: Método que sobreescribe to_s. Imprime en el formato desea los valores del objeto
   def to_s
     "#{@kind} (Linea #{@line}, Columna #{@col})"
   end
